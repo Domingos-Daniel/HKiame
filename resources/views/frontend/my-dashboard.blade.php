@@ -66,7 +66,7 @@
 						<div class="row">
 							<div class="col-lg-12">
 								<h4>{{ __('Hello') }}, @if(isset(Auth::user()->name)) {{ Auth::user()->name }} @endif</h4>
-								<p>From your account dashboard. you can view your <strong><a href="{{ route('frontend.my-booking') }}">recent booking</a></strong>, <strong><a href="{{ route('frontend.my-profile') }}">profile</a></strong> and <strong><a href="{{ route('frontend.change-password') }}">change password</a></strong>.</p>
+								<p>A partir do seu painel de controle, você pode ver sua <strong><a href="{{ route('frontend.my-booking') }}">reserva recente</a></strong>, <strong><a href="{{ route('frontend.my-profile') }}">perfil</a></strong> e <strong><a href="{{ route('frontend.change-password') }}">mudar a senha</a></strong>.</p>
 							</div>
 						</div>
 					</div>

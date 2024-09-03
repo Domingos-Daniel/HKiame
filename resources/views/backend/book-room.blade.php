@@ -102,13 +102,13 @@
 							<div class="row">
 								<div class="col-lg-3">
 									<div class="form-group">
-										<label for="state">{{ __('State') }}</label>
+										<label for="state">{{ __('Provincia') }}</label>
 										<input type="text" name="state" id="state" class="form-control">
 									</div>
 								</div>
 								<div class="col-lg-3">
 									<div class="form-group">
-										<label for="zip_code">{{ __('Zip Code') }}</label>
+										<label for="zip_code">{{ __('Codigo Zip') }}</label>
 										<input type="text" name="zip_code" id="zip_code" class="form-control">
 									</div>
 								</div>	

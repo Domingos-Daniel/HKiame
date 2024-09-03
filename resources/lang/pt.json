@@ -497,7 +497,7 @@
     "Sorry, This is not a valid purchase code.": "Desculpe, este não é um código de compra válido.",
     "Sorry, there was an error uploading your file": "Desculpe, houve um erro ao enviar seu arquivo",
     "Start Date": "Data de Início",
-    "State": "Estado",
+    "State": "Provincia",
     "Status": "Status",
     "Stock Quantity": "Quantidade em Estoque",
     "Stock Status": "Status do Estoque",
@@ -612,7 +612,7 @@
     "Your password changed successfully": "Sua senha foi alterada com sucesso",
     "Your rating of this product": "Sua avaliação deste produto",
     "Youtube Video URL": "URL do Vídeo do Youtube",
-    "Zip Code": "CEP",
+    "Zip Code": "Codigo Postal",
     "Zoom": "Zoom",
     "login": "login",
     "reCAPTCHA is not valid. Please try again!": "reCAPTCHA não é válido. Por favor, tente novamente!"
